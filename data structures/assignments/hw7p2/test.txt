@@ -1,0 +1,131 @@
+[griff073@empress hw7p2]$ ls
+a.out  client.cpp  comp  dgraph.cpp  dgraph.h  llist.cpp  llist.h  slist.cpp  slist.h  stack.cpp  stack.h  table.txt
+[griff073@empress hw7p2]$ g++ *.cpp
+[griff073@empress hw7p2]$ ./a.out
+Name  OutDegree  vistNo  Adjacent
+ ---------------------------------
+A     2           0       [ B F ]
+B     2           0       [ C G ]
+C     1           0       [ H ]
+E     0           0       [Empty]
+F     2           0       [ I E ]
+G     0           0       [Empty]
+H     2           0       [ G I ]
+I     3           0       [ A G E ]
+Pushing: [ B F ]
+Visited: A
+
+Current Stack:
+_____________
+B
+F
+ ______________
+Visited: B
+Pushing  [ C G ]
+
+Current Stack:
+_____________
+C
+G
+F
+ ______________
+Visited: C
+Pushing  [ H ]
+
+Current Stack:
+_____________
+H
+G
+F
+ ______________
+Visited: H
+Pushing  [ G I ]
+
+Current Stack:
+_____________
+G
+I
+G
+F
+ ______________
+Visited: G
+Pushing  [Empty]
+
+Current Stack:
+_____________
+I
+G
+F
+ ______________
+Visited: I
+Pushing  [ A G E ]
+
+Current Stack:
+_____________
+A
+G
+E
+G
+F
+ ______________
+Visited: A
+
+Current Stack:
+_____________
+G
+E
+G
+F
+ ______________
+Visited: G
+
+Current Stack:
+_____________
+E
+G
+F
+ ______________
+Visited: E
+Pushing  [Empty]
+
+Current Stack:
+_____________
+G
+F
+ ______________
+Visited: G
+
+Current Stack:
+_____________
+F
+ ______________
+Visited: F
+Pushing  [ I E ]
+
+Current Stack:
+_____________
+I
+E
+ ______________
+Visited: I
+
+Current Stack:
+_____________
+E
+ ______________
+Visited: E
+
+Current Stack:
+_____________
+ .[ empty ].
+ ______________
+Name  OutDegree  vistNo  Adjacent
+ ---------------------------------
+A     2           1       [ B F ]
+B     2           2       [ C G ]
+C     1           3       [ H ]
+E     0           7       [Empty]
+F     2           8       [ I E ]
+G     0           5       [Empty]
+H     2           4       [ G I ]
+I     3           6       [ A G E ]

@@ -1,0 +1,6 @@
+teacher already exists in dictionary
+cs211 already exists in dictionary
+hello already exists in dictionary
+Failed to delete play
+Couldn't find medical in dictionary.
+cs211 was found in the dictionary

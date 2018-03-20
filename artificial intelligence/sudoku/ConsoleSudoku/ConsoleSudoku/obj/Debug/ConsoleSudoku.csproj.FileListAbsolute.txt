@@ -1,0 +1,42 @@
+c:\users\thoma\documents\visual studio 2015\Projects\ConsoleSudoku\ConsoleSudoku\bin\Debug\ConsoleSudoku.exe.config
+c:\users\thoma\documents\visual studio 2015\Projects\ConsoleSudoku\ConsoleSudoku\bin\Debug\sudoko.txt
+c:\users\thoma\documents\visual studio 2015\Projects\ConsoleSudoku\ConsoleSudoku\bin\Debug\ConsoleSudoku.exe
+c:\users\thoma\documents\visual studio 2015\Projects\ConsoleSudoku\ConsoleSudoku\bin\Debug\ConsoleSudoku.pdb
+c:\users\thoma\documents\visual studio 2015\Projects\ConsoleSudoku\ConsoleSudoku\bin\Debug\Priority Queue.dll
+c:\users\thoma\documents\visual studio 2015\Projects\ConsoleSudoku\ConsoleSudoku\bin\Debug\Priority Queue.pdb
+c:\users\thoma\documents\visual studio 2015\Projects\ConsoleSudoku\ConsoleSudoku\bin\Debug\Priority Queue.xml
+c:\users\thoma\documents\visual studio 2015\Projects\ConsoleSudoku\ConsoleSudoku\obj\Debug\ConsoleSudoku.csprojResolveAssemblyReference.cache
+c:\users\thoma\documents\visual studio 2015\Projects\ConsoleSudoku\ConsoleSudoku\obj\Debug\ConsoleSudoku.exe
+c:\users\thoma\documents\visual studio 2015\Projects\ConsoleSudoku\ConsoleSudoku\obj\Debug\ConsoleSudoku.pdb
+C:\Users\thoma\documents\visual studio 2015\Projects\ConsoleSudoku\ConsoleSudoku\bin\Debug\puzzle2.txt
+C:\Users\thoma\documents\visual studio 2015\Projects\ConsoleSudoku\ConsoleSudoku\bin\Debug\HARD.txt
+I:\school\cs\cs471\sudoku\ConsoleSudoku\ConsoleSudoku\bin\Debug\ConsoleSudoku.exe.config
+I:\school\cs\cs471\sudoku\ConsoleSudoku\ConsoleSudoku\obj\Debug\ConsoleSudoku.exe
+I:\school\cs\cs471\sudoku\ConsoleSudoku\ConsoleSudoku\obj\Debug\ConsoleSudoku.pdb
+I:\school\cs\cs471\sudoku\ConsoleSudoku\ConsoleSudoku\bin\Debug\HARD.txt
+I:\school\cs\cs471\sudoku\ConsoleSudoku\ConsoleSudoku\bin\Debug\puzzle2.txt
+I:\school\cs\cs471\sudoku\ConsoleSudoku\ConsoleSudoku\bin\Debug\sudoko.txt
+I:\school\cs\cs471\sudoku\ConsoleSudoku\ConsoleSudoku\bin\Debug\ConsoleSudoku.exe
+I:\school\cs\cs471\sudoku\ConsoleSudoku\ConsoleSudoku\bin\Debug\ConsoleSudoku.pdb
+I:\school\cs\cs471\sudoku\ConsoleSudoku\ConsoleSudoku\bin\Debug\Priority Queue.dll
+I:\school\cs\cs471\sudoku\ConsoleSudoku\ConsoleSudoku\bin\Debug\Priority Queue.pdb
+I:\school\cs\cs471\sudoku\ConsoleSudoku\ConsoleSudoku\bin\Debug\Priority Queue.xml
+I:\school\cs\cs471\sudoku\ConsoleSudoku\ConsoleSudoku\obj\Debug\ConsoleSudoku.csprojResolveAssemblyReference.cache
+C:\Users\thoma\Dropbox\school\cs\cs471\sudoku\ConsoleSudoku\ConsoleSudoku\bin\Debug\ConsoleSudoku.exe.config
+C:\Users\thoma\Dropbox\school\cs\cs471\sudoku\ConsoleSudoku\ConsoleSudoku\obj\Debug\ConsoleSudoku.exe
+C:\Users\thoma\Dropbox\school\cs\cs471\sudoku\ConsoleSudoku\ConsoleSudoku\obj\Debug\ConsoleSudoku.pdb
+C:\Users\thoma\Dropbox\school\cs\cs471\sudoku\ConsoleSudoku\ConsoleSudoku\bin\Debug\ConsoleSudoku.exe
+C:\Users\thoma\Dropbox\school\cs\cs471\sudoku\ConsoleSudoku\ConsoleSudoku\bin\Debug\ConsoleSudoku.pdb
+C:\Users\thoma\Dropbox\school\cs\cs471\sudoku\ConsoleSudoku\ConsoleSudoku\bin\Debug\Priority Queue.dll
+C:\Users\thoma\Dropbox\school\cs\cs471\sudoku\ConsoleSudoku\ConsoleSudoku\bin\Debug\Priority Queue.pdb
+C:\Users\thoma\Dropbox\school\cs\cs471\sudoku\ConsoleSudoku\ConsoleSudoku\bin\Debug\Priority Queue.xml
+C:\Users\thoma\Dropbox\school\cs\cs471\sudoku\ConsoleSudoku\ConsoleSudoku\obj\Debug\ConsoleSudoku.csprojResolveAssemblyReference.cache
+C:\Users\thoma\Desktop\schoolCode\artificial intelligence\sudoku\ConsoleSudoku\ConsoleSudoku\bin\Debug\ConsoleSudoku.exe.config
+C:\Users\thoma\Desktop\schoolCode\artificial intelligence\sudoku\ConsoleSudoku\ConsoleSudoku\obj\Debug\ConsoleSudoku.exe
+C:\Users\thoma\Desktop\schoolCode\artificial intelligence\sudoku\ConsoleSudoku\ConsoleSudoku\obj\Debug\ConsoleSudoku.pdb
+C:\Users\thoma\Desktop\schoolCode\artificial intelligence\sudoku\ConsoleSudoku\ConsoleSudoku\bin\Debug\ConsoleSudoku.exe
+C:\Users\thoma\Desktop\schoolCode\artificial intelligence\sudoku\ConsoleSudoku\ConsoleSudoku\bin\Debug\ConsoleSudoku.pdb
+C:\Users\thoma\Desktop\schoolCode\artificial intelligence\sudoku\ConsoleSudoku\ConsoleSudoku\bin\Debug\Priority Queue.dll
+C:\Users\thoma\Desktop\schoolCode\artificial intelligence\sudoku\ConsoleSudoku\ConsoleSudoku\bin\Debug\Priority Queue.pdb
+C:\Users\thoma\Desktop\schoolCode\artificial intelligence\sudoku\ConsoleSudoku\ConsoleSudoku\bin\Debug\Priority Queue.xml
+C:\Users\thoma\Desktop\schoolCode\artificial intelligence\sudoku\ConsoleSudoku\ConsoleSudoku\obj\Debug\ConsoleSudoku.csprojResolveAssemblyReference.cache

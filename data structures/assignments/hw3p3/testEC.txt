@@ -1,0 +1,22 @@
+[griff073@empress hw3p3]$ g++ hw3ec.cpp slist.cpp llist.cpp
+[griff073@empress hw3p3]$ ./a.out
+Current list:  [Empty]
+Current list:  [Empty]
+Lists are equal
+Current list:  [Empty]
+Current list: 1 2
+Lists aren't equal
+Current list: 1 2 3
+Current list: 1 2 3
+Lists are equal
+Current list: 1 2 3
+Current list: 1 2
+Lists aren't equal
+Current list: 1 2 3
+Current list: 1 2 3 4
+Lists aren't equal
+Current list: 1 2 3
+Current list: 1 2 4
+Lists aren't equal
+Calling llist destructor.
+Calling llist destructor.

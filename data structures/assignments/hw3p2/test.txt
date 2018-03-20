@@ -1,0 +1,8 @@
+[griff073@empress hw3p2]$ g++ client2.cpp llist.cpp slist.cpp
+[griff073@empress hw3p2]$ ./a.out
+Current list: 4 6 7 8
+Found in position 2
+Found in position 4
+Current list: 4 0 7 2
+Number not found in list
+Calling llist destructor.

@@ -1,0 +1,32 @@
+[griff073@empress Hw2]$ g++ binarysearch.cpp
+[griff073@empress Hw2]$ ./a.out
+What number would you like to look for?
+1
+Found in slot: 1.
+Would you like to look for another item? (Y/N)
+y
+What number would you like to look for?
+19
+Found in slot: 10.
+Would you like to look for another item? (Y/N)
+y
+What number would you like to look for?
+5
+Found in slot: 3.
+Would you like to look for another item? (Y/N)
+y
+What number would you like to look for?
+17
+Found in slot: 9.
+Would you like to look for another item? (Y/N)
+y
+What number would you like to look for?
+21
+Result not found in array.
+Would you like to look for another item? (Y/N)
+y
+What number would you like to look for?
+0
+Result not found in array.
+Would you like to look for another item? (Y/N)
+n

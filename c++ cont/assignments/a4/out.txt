@@ -1,0 +1,324 @@
+Transaction: AddHusband
+******************* 
+Successfully added husband: Jim
+******************
+
+Transaction: AddHusband
+******************* 
+Successfully added husband: Joe
+******************
+
+Transaction: AddHusband
+******************* 
+Successfully added husband: Kevin
+******************
+
+Transaction: AddHusband
+******************* 
+Successfully added husband: Richard
+******************
+
+Transaction: AddHusband
+******************* 
+Successfully added husband: Ken
+******************
+
+Transaction: PrintAllFamilies
+******************* 
+Husband info: 
+-------------- 
+SSN: 500500500
+First name: Ken
+Last name: Baker
+-------------- 
+
+Husband info: 
+-------------- 
+SSN: 400400400
+First name: Richard
+Last name: Anderson
+-------------- 
+
+Husband info: 
+-------------- 
+SSN: 300300300
+First name: Kevin
+Last name: Tarr
+-------------- 
+
+Husband info: 
+-------------- 
+SSN: 200200200
+First name: Joe
+Last name: Brown
+-------------- 
+
+Husband info: 
+-------------- 
+SSN: 100100100
+First name: Jim
+Last name: Smith
+-------------- 
+
+******************
+
+Transaction: AddWife
+******************* 
+Successfully added wife: Linda
+******************
+
+Transaction: AddWife
+******************* 
+Successfully added wife: Mary
+******************
+
+Transaction: AddWife
+******************* 
+Successfully added wife: Beth
+******************
+
+Transaction: AddWife
+******************* 
+Failed to add wife: Ana
+******************
+
+Transaction: PrintAllFamilies
+******************* 
+Husband info: 
+-------------- 
+SSN: 500500500
+First name: Ken
+Last name: Baker
+-------------- 
+
+Wife info: 
+-------------- 
+SSN: 510510510
+First name: Beth
+Last name: Baker
+-------------- 
+
+Husband info: 
+-------------- 
+SSN: 400400400
+First name: Richard
+Last name: Anderson
+-------------- 
+
+Wife info: 
+-------------- 
+SSN: 410410410
+First name: Mary
+Last name: Anderson
+-------------- 
+
+Husband info: 
+-------------- 
+SSN: 300300300
+First name: Kevin
+Last name: Tarr
+-------------- 
+
+Husband info: 
+-------------- 
+SSN: 200200200
+First name: Joe
+Last name: Brown
+-------------- 
+
+Wife info: 
+-------------- 
+SSN: 210210210
+First name: Linda
+Last name: Brown
+-------------- 
+
+Husband info: 
+-------------- 
+SSN: 100100100
+First name: Jim
+Last name: Smith
+-------------- 
+
+******************
+
+Transaction: AddAchild
+******************* 
+Successfully added child: Tina
+******************
+
+Transaction: AddAchild
+******************* 
+Successfully added child: Rick
+******************
+
+Transaction: AddAchild
+******************* 
+Successfully added child: Nina
+******************
+
+Transaction: AddAchild
+******************* 
+Successfully added child: Sam
+******************
+
+Transaction: AddAchild
+******************* 
+Successfully added child: Serge
+******************
+
+Transaction: RemoveAchild
+******************* 
+Nina
+Successfully removed child: 211211211
+******************
+
+Transaction: RemoveAchild
+******************* 
+Rick
+Failed to remove child: 311311311
+******************
+
+Transaction: PrintAFamily
+******************* 
+Failed to print family of Husband: 333333333
+******************
+
+Transaction: PrintAFamily
+******************* 
+Husband info: 
+-------------- 
+SSN: 400400400
+First name: Richard
+Last name: Anderson
+-------------- 
+
+Wife info: 
+-------------- 
+SSN: 410410410
+First name: Mary
+Last name: Anderson
+-------------- 
+
+******************
+
+Transaction: PrintAFamily
+******************* 
+Husband info: 
+-------------- 
+SSN: 200200200
+First name: Joe
+Last name: Brown
+-------------- 
+
+Wife info: 
+-------------- 
+SSN: 210210210
+First name: Linda
+Last name: Brown
+-------------- 
+
+Children info: 
+-------------- 
+SSN: 212212212
+First name: Rick
+Last name: Brown
+-------------- 
+
+Children info: 
+-------------- 
+SSN: 211211211
+First name: Tina
+Last name: Brown
+-------------- 
+
+******************
+
+Transaction: PrintAllFamilies
+******************* 
+Husband info: 
+-------------- 
+SSN: 500500500
+First name: Ken
+Last name: Baker
+-------------- 
+
+Wife info: 
+-------------- 
+SSN: 510510510
+First name: Beth
+Last name: Baker
+-------------- 
+
+Children info: 
+-------------- 
+SSN: 512512512
+First name: Serge
+Last name: Baker
+-------------- 
+
+Children info: 
+-------------- 
+SSN: 511511511
+First name: Sam
+Last name: Baker
+-------------- 
+
+Husband info: 
+-------------- 
+SSN: 400400400
+First name: Richard
+Last name: Anderson
+-------------- 
+
+Wife info: 
+-------------- 
+SSN: 410410410
+First name: Mary
+Last name: Anderson
+-------------- 
+
+Husband info: 
+-------------- 
+SSN: 300300300
+First name: Kevin
+Last name: Tarr
+-------------- 
+
+Husband info: 
+-------------- 
+SSN: 200200200
+First name: Joe
+Last name: Brown
+-------------- 
+
+Wife info: 
+-------------- 
+SSN: 210210210
+First name: Linda
+Last name: Brown
+-------------- 
+
+Children info: 
+-------------- 
+SSN: 212212212
+First name: Rick
+Last name: Brown
+-------------- 
+
+Children info: 
+-------------- 
+SSN: 211211211
+First name: Tina
+Last name: Brown
+-------------- 
+
+Husband info: 
+-------------- 
+SSN: 100100100
+First name: Jim
+Last name: Smith
+-------------- 
+
+******************
+

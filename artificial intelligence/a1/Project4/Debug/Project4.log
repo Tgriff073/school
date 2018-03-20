@@ -1,0 +1,8 @@
+﻿  State.cpp
+c:\users\thoma\documents\visual studio 2015\projects\project4\project4\state.cpp(117): warning C4101: 'tempReward': unreferenced local variable
+  scoring.cpp
+c:\users\thoma\documents\visual studio 2015\projects\project4\project4\scoring.cpp(5): error C2059: syntax error: ')'
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  winning.cpp
+  main.cpp

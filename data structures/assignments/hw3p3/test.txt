@@ -1,0 +1,12 @@
+[griff073@empress hw3p3]$ g++ client3.cpp llist.cpp slist.cpp
+[griff073@empress hw3p3]$ ./a.out
+Current list: 1 2 3 4 5 6
+Calling llist destructor.
+Current list: 1 2 3 4 5
+Current list: 1 2 3 4 5
+Current list: 7 8 9 10
+Current list: 1 2 3 4 5
+Current list: 1 2 3 4
+Current list: 1 2 3 4 5
+Calling llist destructor.
+Calling llist destructor.

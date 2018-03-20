@@ -1,0 +1,22 @@
+#include <iostream>
+#include <fstream>
+using namespace std;
+
+void openFileCheck();
+int main()
+{
+return 0;
+}
+void openFileCheck()
+{
+  int i=0
+  string file="";
+  ifstream fin;
+  fin.open("input.dat");
+  if(fin.fail()
+    cout<< "File could not be opened, please make sure the file exists\n";
+  for (i =0; (i<=16); i++)
+{
+         getline(fin, file);
+}
+if(i<=15

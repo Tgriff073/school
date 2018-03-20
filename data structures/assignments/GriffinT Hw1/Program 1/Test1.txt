@@ -1,0 +1,36 @@
+[griff073@empress Stack]$ g++ client1.cpp stack.cpp
+[griff073@empress Stack]$ ./a.out
+type a postfix expression: 456*
+Error: Incomplete Expression
+[griff073@empress Stack]$
+[griff073@empress Stack]$ g++ client1.cpp stack.cpp
+[griff073@empress Stack]$ ./a.out
+type a postfix expression: 34+
+The result is : 7
+[griff073@empress Stack]$ ./a.out
+type a postfix expression: 345+*
+The result is : 27
+[griff073@empress Stack]$ ./a.out
+type a postfix expression: 722+-
+The result is : 3
+[griff073@empress Stack]$ ./a.out
+type a postfix expression: 34+56++
+The result is : 18
+[griff073@empress Stack]$ ./a.out
+type a postfix expression: 12+34*45+-+
+The result is : 6
+[griff073@empress Stack]$ ./a.out
+type a postfix expression: 1234567891234
+Error: Stack is Full!
+[griff073@empress Stack]$ ./a.out
+type a postfix expression: +
+Error: Too few Operands!
+[griff073@empress Stack]$ ./a.out
+type a postfix expression: 3+
+Error: Too few Operands!
+[griff073@empress Stack]$ ./a.out
+type a postfix expression: 3#
+invalid item
+[griff073@empress Stack]$ ./a.out
+type a postfix expression: 2345+
+Error: Incomplete Expression
