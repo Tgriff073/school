@@ -1,0 +1,10 @@
+﻿  State.cpp
+  winning.cpp
+  scoring.cpp
+  main.cpp
+c:\users\thoma\dropbox\school\cs\cs471\conn4 most up to date\project4\main.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\thoma\dropbox\school\cs\cs471\conn4 most up to date\project4\main.cpp(82): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  LINK : C:\Users\thoma\Dropbox\school\cs\cs471\conn4 most up to date\Debug\Project4.exe not found or not built by the last incremental link; performing full link
+  Project4.vcxproj -> C:\Users\thoma\Dropbox\school\cs\cs471\conn4 most up to date\Debug\Project4.exe
+  Project4.vcxproj -> C:\Users\thoma\Dropbox\school\cs\cs471\conn4 most up to date\Debug\Project4.pdb (Partial PDB)
